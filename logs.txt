@@ -1,0 +1,44 @@
+commit af98dc7030ed7ff53fe2468a54dd9ffa42888f29
+Author: Roman Baranov <staraxe0@gmail.com>
+Date:   Mon Sep 13 03:46:16 2021 +0300
+
+    Add history.txt
+
+commit b56fffe0bf25d27b55b03f393dbc5bf87fe04b44
+Merge: 16f20f4 f1913cb
+Author: staraxe <89808916+staraxe@users.noreply.github.com>
+Date:   Mon Sep 13 03:21:50 2021 +0300
+
+    Merge pull request #1 from staraxe/task1
+    
+    Task1
+
+commit 16f20f4132a24021b38c0b89a612fd5cfb90f093
+Author: Roman Baranov <staraxe0@gmail.com>
+Date:   Mon Sep 13 02:54:51 2021 +0300
+
+    Create file readme.md
+
+commit f1913cbaa392751b9f2429adc9668261112e8bb7
+Author: Roman Baranov <staraxe0@gmail.com>
+Date:   Mon Sep 13 02:44:18 2021 +0300
+
+    Create new file clfile and chenges newFile
+
+commit 04c3f7ce45f3a0987063ffcf46f6e69125d834bb
+Author: Roman Baranov <staraxe0@gmail.com>
+Date:   Mon Sep 13 02:20:06 2021 +0300
+
+    Add two more line
+
+commit 2fe9e555d56b713a1099bf8056c70f399bb70551
+Author: Roman Baranov <staraxe0@gmail.com>
+Date:   Mon Sep 13 02:11:22 2021 +0300
+
+    Add newFile.txt
+
+commit 2d3e6f72f42a5118493ad9cd2218820b759de4bf
+Author: Roman Baranov <staraxe0@gmail.com>
+Date:   Mon Sep 13 01:57:32 2021 +0300
+
+    Initial commit
