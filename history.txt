@@ -1,0 +1,120 @@
+    1  cd ..
+    2  cd ..
+    3  git config --global
+    4  git config --global user
+    5  git config --global user.
+    6  git config --global user
+    7  mkdir baranov-git-repo
+    8  cd baranov-git-repo/
+    9  mkdir baranov 
+   10  cd ..
+   11  mkdir baranov
+   12  cd baranov/
+   13  mkdir git
+   14  cd git/
+   15  mk dir repo 
+   16  mkdir repo 
+   17  cd repo/
+   18  ll
+   19  git init
+   20  ls - la
+   21  ls -la
+   22  git status
+   23  git config --global user. email
+   24  git config --global user.email
+   25  git remote add origin https://github.com/staraxe/ls7.git
+   26  git remote -v
+   27  git status
+   28  touch file1.txt
+   29  ls
+   30  ll
+   31  git status
+   32  git add file1.txt 
+   33  git status
+   34  git commit -m "Initial commit"
+   35  git log 
+   36  git lof --oneline
+   37  git log --oneline
+   38  git push
+   39* 
+   40  git branch -a
+   41  git branch task1
+   42  git branch -a
+   43  git checkout task1
+   44  vim newFile
+   45  git status
+   46  git add . 
+   47  git commit -m "Add newFile.txt"
+   48  git log -- oneline
+   49  git status
+   50  git log --oneline
+   51  vim newFile
+   52  git status
+   53  git add . 
+   54  git status
+   55  vim newFile2
+   56  git status
+   57  git add . 
+   58  git status
+   59  git commit -m "Add two more line"
+   60  git status
+   61  ls
+   62  git status
+   63  git log -oneline
+   64  git log --oneline
+   65  git push -u origin task1
+   66  cd .. 
+   67  git clone https://github.com/staraxe/ls7.git
+   68  cd repo/
+   69  cd
+   70  cd
+   71  mkdir clone 
+   72  cd /c/
+   73  mkdir clone
+   74  cd clone
+   75  git clone https://github.com/staraxe/ls7.git
+   76  cd ls7/
+   77  git checkout task1
+   78  vim clFile
+   79  git status
+   80  vim newFile
+   81  git status
+   82  git add .
+   83  git status
+   84  git commit -m "Create new file clfile and chenges newFile" 
+   85  git status
+   86  git push -u orogin task1
+   87  git push -u origin task1
+   88  git checkout master
+   89  vim readme.md
+   90  git init readme.md
+   91  git status
+   92  git add . 
+   93  git status
+   94  git commit -m "Create file readme.md"
+   95  git push -u origin master
+   96  cd ..
+   97  cd ..
+   98  cd baranov/
+   99  cd git/
+  100  cd ls7 
+  101  cd ..
+  102  cd repo 
+  103  git status
+  104  git branch -a
+  105  git status
+  106  git checkout master
+  107  git status
+  108  git fetch 
+  109  git pull 
+  110  git status
+  111  git log --oneline 
+  112  git branch task2
+  113  git branch -a
+  114  git checkout task2
+  115  git log
+  116  git log
+  117  git status
+  118  git log
+  119  history
+  120  history > history.txt
